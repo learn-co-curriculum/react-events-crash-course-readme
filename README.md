@@ -32,7 +32,6 @@ have methods like `preventDefault()`, `stopPropagation()`, and so on.
 
 Consider the following component:
 
-<a name="tickler-example"></a>
 ```js
 class Tickler extends React.Component {
 
@@ -90,8 +89,6 @@ around with! If you have time, the React event documentation linked below is an 
 - [Handling Events](https://reactjs.org/docs/handling-events.html)
 - [Supported Events](https://reactjs.org/docs/events.html#supported-events)
 
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/react-events-crash-course-readme'>React Events Crash Course</a> on Learn.co and start learning to code for free.</p>
 
 [html-events]: https://www.w3schools.com/js/js_events.asp
 [react-events]: https://reactjs.org/docs/events.html#supported-events
