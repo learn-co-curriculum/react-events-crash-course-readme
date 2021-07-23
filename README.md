@@ -8,14 +8,12 @@ React's way of implementing native HTML events, such as `onclick`, `onkeydown`,
 familiar with HTML events. For a refresher, see: [this
 documentation][html-events]. 
 
-
 ## Objectives
 
 1. Explain how React events differ from browser events
 2. Describe how React standardizes events for compatibility
 3. Explain how to use React events in our application
 4. Add an event handler to a component
-
 
 ## React's Event System
 
